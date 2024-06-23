@@ -1,0 +1,6 @@
+train: C:\Users\fatto\OneDrive\Bureau\OCR+YOLOv8\train
+val: C:\Users\fatto\OneDrive\Bureau\OCR+YOLOv8\val
+
+nc: 1
+
+names: ["mrz_p"]
