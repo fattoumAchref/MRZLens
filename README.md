@@ -22,7 +22,7 @@ This project is a **Computer Vision-based pipeline** using **PaddleOCR** to auto
 |----------------|------------------|
 | Programming    | Python           |
 | OCR Engine     | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) |
-| Computer Vision| OpenCV           |
+| Computer Vision| YOLOV8          |
 | Image Handling | PIL / NumPy      |
 | Model Inference| Pretrained PaddleOCR detection/recognition models |
 
